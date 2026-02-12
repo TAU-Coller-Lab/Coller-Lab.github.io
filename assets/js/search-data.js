@@ -518,7 +518,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/Coller-Lab", "_blank");
+          window.open("https://github.com/TAU-Coller-Lab", "_blank");
         },
       },{
         id: 'social-custom_social',
