@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "TAU-Coller-Lab/Coller-Lab.github.io",
+    "data-repo": "TAU-Coller-Lab/tau-coller-lab.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
