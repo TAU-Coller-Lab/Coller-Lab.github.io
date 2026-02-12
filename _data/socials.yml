@@ -20,7 +20,3 @@ github_username: TAU-Coller-Lab
 # -----------------------------------------------------------------------------
 # Custom Link
 # -----------------------------------------------------------------------------
-custom_social:
-  logo: https://identity.tau.ac.il/sites/default/files/styles/medium/public/tau_logo.png
-  title: TAU Profile
-  url: https://en-coller.tau.ac.il/
